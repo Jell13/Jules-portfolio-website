@@ -25,7 +25,7 @@ const Home = () => {
   return (
     <div name="home" className='w-full h-screen bg-home bg-cover bg-fixed bg-center bg-no-repeat text-gray-100'>
       <div className='w-full h-full flex flex-col'>
-        <Navbar/>
+        {/* <Navbar/> */}
         <div className='max-w-screen-lg mt-10 w-full mx-auto h-full flex flex-col md:flex-row-reverse justify-center items-center'>
           <div className=' flex flex-col gap-4 justify-center h-1/2'>
             <h1 className='text-4xl md:text-7xl font-bold'>Biomedical Engineering</h1>
