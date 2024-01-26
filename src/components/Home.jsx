@@ -1,6 +1,6 @@
 import React from 'react'
 import pic from '../assets/Jules.jpg'
-import Navbar from './Navbar'
+import Resume from '../resume/Resume.pdf'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import {FaLinkedin} from 'react-icons/fa'
 
@@ -16,7 +16,7 @@ const Home = () => {
     {
       id:2,
       child: (<><BsFillPersonLinesFill size={30}/></>),
-      href:'/',
+      href:{Resume},
       style: 'rounded-br-md',
       download: true
     }
