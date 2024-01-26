@@ -27,7 +27,7 @@ const Home = () => {
       <div className='w-full h-full flex flex-col'>
         {/* <Navbar/> */}
         <div className='max-w-screen-lg mt-10 w-full mx-auto h-full flex flex-col md:flex-row-reverse justify-center items-center'>
-          <div className=' flex flex-col gap-4 justify-center h-1/2'>
+          <div className=' flex flex-col gap-4 justify-center h-1/2 p-4'>
             <h1 className='text-4xl md:text-7xl font-bold'>Biomedical Engineering</h1>
             <p className='max-w-md mt-4 text-3xl'>Julia Sutedjo</p>
             <div className='flex md:gap-20 gap-5 items-center'>
