@@ -3,7 +3,7 @@ import side from '../assets/side.jpg'
 
 const Contact = () => {
   return (
-    <div name="contact" className='w-full h-screen p-4'>
+    <div name="contact" className='w-full h-screen p-4 mt-11'>
       <div className='max-w-screen-lg mx-auto w-full h-full flex flex-col justify-center p-4'>
         <div className='mb-10'>
           <h1 className='font-bold md:text-4xl text-2xl border-b-2 border-black inline'>Contact</h1>
