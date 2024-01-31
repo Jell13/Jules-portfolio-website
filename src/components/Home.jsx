@@ -1,6 +1,6 @@
 import React from 'react'
 import pic from '../assets/Jules.jpg'
-import Resume from '../resume/Julia_Sutedjo_Resume.pdf'
+import Resume from '../resume/Julia_Sutedjo_Resume_.pdf'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import {FaLinkedin} from 'react-icons/fa'
 
